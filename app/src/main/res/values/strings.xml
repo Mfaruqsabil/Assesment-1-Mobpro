@@ -11,4 +11,5 @@
     <string name="konfirmasi">Konfirmasi</string>
     <string name="nama_orang">Nama Lengkap</string>
     <string name="kendala_penyakit">Kendala Penyakit</string>
+    <string name="reset">Reset</string>
 </resources>
