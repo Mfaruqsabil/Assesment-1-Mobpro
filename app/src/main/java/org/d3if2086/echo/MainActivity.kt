@@ -71,6 +71,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun resetButton(){
+        binding.namaEditText.text?.clear()
+        binding.kendalaEditText.text?.clear()
+        binding.beratEditText.text?.clear()
+        binding.tinggiEditText.text?.clear()
         binding.namaTextView.text = ""
         binding.kategoriTextView.text = ""
     }
