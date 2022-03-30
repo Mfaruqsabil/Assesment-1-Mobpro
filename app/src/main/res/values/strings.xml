@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Echo</string>
 
-    <string name="bmi_intro">Cek kesehatan anda di aplikasi ini maka kami akan
+    <string name="echo_intro">Cek kesehatan anda di aplikasi ini maka kami akan
         memprediksikan hasil dari tes anda lulus atau tidaknya kalian calon peserta</string>
     <string name="berat_badan">Berat badan (kg)</string>
     <string name="tinggi_badan">Tinggi badan (cm)</string>
@@ -12,4 +12,12 @@
     <string name="nama_orang">Nama Lengkap</string>
     <string name="kendala_penyakit">Kendala Penyakit</string>
     <string name="reset">Reset</string>
+    <string name="nama">Nama: %1$s</string>
+    <string name="lulus">Lulus</string>
+    <string name="tidak_lulus">Tidak Lulus</string>
+    <string name="kategori_x">Hasil: %1$s</string>
+    <string name="berat_invalid">Berat tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+    <string name="gender_invalid">Pilih jenis kelamin.</string>
+    <string name="nama_invalid">Nama tidak boleh kosong</string>
 </resources>
